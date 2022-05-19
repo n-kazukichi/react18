@@ -6,7 +6,7 @@ const App = () => (
   <div className="App">
     <header className="App-header">
       <img src={logo} className="App-logo" alt="logo" />
-      <p>Hello!! React</p>
+      <p>Hello!! yarn build!! かつPRしてどうのこうの</p>
       <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
         Learn React
       </a>
